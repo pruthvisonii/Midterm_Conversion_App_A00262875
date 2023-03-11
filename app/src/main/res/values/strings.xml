@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Conversion app</string>
+    <array name="conversion_types">
+        <item>CM to IN</item>
+        <item>IN to CM</item>
+        <item>C to F</item>
+        <item>F to C</item>
+        <item>KM to MI</item>
+        <item>MI to KM</item>
+    </array>
+</resources>
